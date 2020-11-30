@@ -1,0 +1,2 @@
+Date Nov 15 2016
+bash ~/scripts/virulence_srst/virulence_srst.sh -f ecoli_consolidated.fasta -d /groups/pricelab/FUTI_analysis/temp/leftout_dateSamples/ -o files_output/ -i ../isolate_list.txt 

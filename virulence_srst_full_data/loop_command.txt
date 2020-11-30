@@ -1,0 +1,2 @@
+
+bash ~/scripts/virulence_srst_full_data/run_virulence.sh -f ecoli_db.fasta -o test_output/ -l list.txt -d /groups/pricelab/FUTI_analysis/FUTI_read_ST_symlink/
